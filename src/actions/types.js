@@ -1,0 +1,3 @@
+export const CREATE_REVIEW = 'CREATE_REVIEW';
+export const FETCH_REVIEWS = 'FETCH_REVIEWS';
+export const FETCH_PRODUCTS = 'FETCH_PRODUCTS';

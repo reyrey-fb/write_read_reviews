@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Velvet Sofa"
+    },
+    {
+      "id": 1,
+      "name": "Fancy Armchair"
+    },
+    {
+      "id": 2,
+      "name": "Plain Bed"
+    },
+    {
+      "id": 3,
+      "name": "Huge Rug"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Oliver",
+      "star_rating": 5,
+      "headline": "I love this product!",
+      "body": "This sofa has completely changed my life. The delivery process couldn't have been easier. I want to sing about Oliver Space from the rooftops!",
+      "productId": 0
+    },
+    {
+      "author": "new",
+      "star_rating": 5,
+      "headline": "Love it",
+      "body": "Would rent this big ol couch one hundred times over.",
+      "productId": 0,
+      "id": 2
+    },
+    {
+      "star_rating": 4,
+      "author": "Gregory",
+      "headline": "Best couch ever ",
+      "body": "Super comfortable and you could sit in it all day!",
+      "productId": 0,
+      "id": 3
+    },
+    {
+      "star_rating": 4,
+      "author": "Harry",
+      "headline": "Persian Rugs",
+      "body": "The rug is washable and beautiful. I want to buy 14 more for my house.",
+      "productId": "3",
+      "id": 4
+    },
+    {
+      "star_rating": 1,
+      "author": "Rey",
+      "headline": "Super late delivery",
+      "body": "We had to wait 5 months for the chair to arrive, and it's much smaller than pictured. Need refund!!!",
+      "productId": "1",
+      "id": 5
+    },
+    {
+      "star_rating": 3,
+      "author": "Arian",
+      "headline": "So-So",
+      "body": "It's a very bland bed but it does the job.",
+      "productId": "2",
+      "id": 6
+    }
+  ]
+}
